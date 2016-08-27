@@ -210,15 +210,16 @@
 
 
 /*===================services page================*/
-.services-content{
+.page-content{
   margin-bottom:100px;
   overflow: hidden;
 }
-.services-content__head, .extended-services__head{
+.page-content__head, .extended-services__head{
   max-width: 100%;
 }
-.services-content h3{
+.page-content h3{
   font-family: 'Open Sans Light', Arial, sans-serif;
+  text-transform: capitalize;
 }
 .item p{
   line-height: 26px;
@@ -242,7 +243,42 @@
   font-size: 14px;
 }
 
+/*====================projects page====================*/
 
+.page-content ul{
+  list-style-position: outside;
+  margin-left: 17px;
+}
+
+.page-content h5{
+  color: #F4CF00;
+  line-height: 24px;
+  margin-bottom: 15px;
+}
+.toggle{
+  margin-bottom:60px;
+}
+.toggle-item-content div div:last-child{
+  padding-left: 30px;
+}
+
+.recommendation__item{
+  padding: 0 10px;
+  margin-bottom: 60px;
+}
+.recommendation__item p{
+  font-family: 'Open Sans Regular', Arial, sans-serif;
+  font-size: 14px;
+}
+.recommendation__item span{
+  display: block;
+  font-weight: 700;
+  font-size: 15px;
+}
+.clients-list li{
+  font-family: 'Open Sans Regular', Arial, sans-serif;
+  font-size: 13px;
+}
 
 
 

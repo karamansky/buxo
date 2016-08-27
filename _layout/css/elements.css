@@ -82,37 +82,49 @@
 	.toggle-item { margin-bottom: 10px; }
 
 	a.toggle-item-toggle {
+    line-height: 20px;
+    font-size: 14px;
+    background-color: #313B50;
 		position: relative;
 		display:block;
-		padding: 15px;
-		border: 1px solid #bdb4b4;
-		border-radius: 5px;
-		color: #555555;
+		padding: 20px 10px;
+		color: #fff;
 		text-decoration: none !important;
-		-webkit-transition: background-color 0.2s;
-			 -o-transition: background-color 0.2s;
-				transition: background-color 0.2s;
 	}
 	
 	a.toggle-item-toggle:after {
 		position: absolute;
-		top: 15px;
 		right: 15px;
 		font-size: 18px;
-		content: "+";
+		background: url("../images/accordion-arrow.png") no-repeat;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    top: 24px;
+    width: 11px;
+    height: 11px;
+    content: " ";
 	}
 	
-	a.toggle-item-toggle:hover,
-	a.toggle-item-toggle.active {
-		border-color: #96e0a9;
-		background-color: #96e0a9;
-		color: #fff;
-	}
+	a.toggle-item-toggle.active:after {
+    content: " ";
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    top: 27px;
+  }
+
+  a.toggle-item-toggle span{
+    color: #F4CF00;
+  }
 	
-	a.toggle-item-toggle.active:after { content: "-"; }
-	
-	.toggle-item-content { 
-		padding: 15px 5px; 
+	.toggle-item-content {
+    background-color: #f6f9ff;
+		padding: 20px 10px;
 		display: none; 
 	}
 
@@ -506,7 +518,7 @@
 	
 	.headline {
 		max-width: 460px; /* 1 */
-		margin-bottom: 60px;
+		margin-bottom: 50px;
 		border-bottom: 1px solid #c4c4c4;  
 	}
 	
