@@ -11,6 +11,9 @@
   left: 4px;
   bottom: 4px;
 }
+.under-slider{
+  background-image: url("../images/bg-box.jpg");
+}
 
 /*icons*/
 .icon-man{
@@ -202,4 +205,105 @@
 .after-footer{
   background-color: #202736;
   height: 25px;
+}
+
+/*MEDIA ===================*/
+@media (max-width: 979px){
+  .caption.title {
+    font-size: 36px;
+    line-height: 42px;
+  }
+
+  .caption.title strong{
+    font-size: 36px;
+  }
+  .caption.title span{
+    font-size: 30px!important;
+  }
+
+  .caption.sub-title {
+    font-size: 20px;
+    line-height: 34px;
+  }
+  .caption.text { font-size:16px; line-height: 28px; }
+
+  .callout-box a.btn {    margin-top: 10px;  }
+  .btn-large {    padding: 12px 30px;  }
+  .under-slider h2 { font-size: 20px;}
+  
+
+
+  .history__item-1{
+    bottom: -41px;
+    left: 60px;
+  }
+  .history__item-2{
+    bottom: 50px;
+    left: 100px;
+  }
+  .history__item-3{
+    bottom: -76px;
+    left: 234px;
+  }
+  .history__item-4{
+    left: 285px;
+    bottom: 50px;
+  }
+  .history__item-5{
+    left: 333px;
+    bottom: -94px;
+    width: 110px;
+  }
+  .history__item-6{
+    left: 415px;
+    bottom: 50px;
+  }
+  .history__item-7{
+    left: 467px;
+    bottom: -40px;
+  }
+  .history__item-8{
+    right: 59px;
+    bottom: 50px;
+  }
+}
+
+
+
+@media (max-width: 767px){
+  .caption.title {
+    font-size: 38px;
+    line-height: 42px;
+  }
+
+  .caption.title strong{
+    font-size: 38px;
+  }
+  .caption.title span{
+    font-size: 30px;
+  }
+
+  .caption.sub-title {
+    font-size: 20px;
+    line-height: 34px;
+  }
+
+  .caption.text { font-size:16px; line-height: 28px; }
+
+  .under-slider{
+    background-color: #CEA701;
+  }
+  .under-slider h2 {
+    font-size: 16px;
+  }
+  .box {
+    margin-bottom: 60px;
+    height: auto;
+  }
+  .icon-box-1 i{display: none;}
+  .icon-box-1 .icon-box-content {
+     margin-left: 0px;
+  }
+
+
 }
