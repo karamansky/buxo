@@ -304,15 +304,17 @@
 	/* Page Header */
 	
 	#page-header {
-		padding: 35px 0;
+		padding: 155px 0;
+    text-align: center;
 		margin-bottom: 60px;
-		background: url(../images/bg-page-header.png) no-repeat center center; 
 	}
 	
 	#page-header h2 {
 		margin-bottom: 0;
 		color: #fff;
 		text-transform: uppercase;
+    font-size: 48px;
+    font-weight: 700;
 	}
 	
 	.color-shade-1 span i { background-color: #96e0a9 !important; }

@@ -43,7 +43,7 @@
 	}
 
   /* FONTS */
-@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800';
 
     /* HTML5 display-role reset for older browsers */
 	
@@ -122,8 +122,7 @@
 	h5, 
 	h6 {
 		color: #474D5D;
-		font-family: 'Open Sans Semibold', Arial, sans-serif;
-		font-weight: normal; 
+		font-weight: normal;
 	}
 		
 	h1 a, 
@@ -363,7 +362,7 @@
 	table th, 
 	table td {
 		padding: 12px; 
-		border-top: 1px solid #efefef;
+		/*border-top: 1px solid #efefef;*/
 		text-align: left; 
 		vertical-align: top; 
 	}
