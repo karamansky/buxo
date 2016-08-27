@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc35ab99-b9b9-4173-922c-b871982c232f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_content/backgrounds/bg-box.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layout/images/icon-link.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layout/images/icon-zoom.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/css/elements.css" afterPath="$PROJECT_DIR$/_layout/css/elements.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/css/my_style.css" afterPath="$PROJECT_DIR$/_layout/css/my_style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="01.html-website.iws" />
@@ -32,12 +26,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="535" column="82" selection-start-line="535" selection-start-column="82" selection-end-line="535" selection-end-column="82" />
+            <state relative-caret-position="178">
+              <caret line="626" column="35" selection-start-line="626" selection-start-column="35" selection-end-line="626" selection-end-column="35" />
               <folding>
                 <element signature="n#style#0;n#div#9;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#9;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1472285555377" expanded="true" signature="2075:2300" placeholder="..." />
+                <marker date="1472285941177" expanded="true" signature="2075:2300" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -286,7 +280,7 @@
           <folding>
             <element signature="n#style#0;n#div#9;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#9;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1472285555377" expanded="true" signature="2075:2300" placeholder="..." />
+            <marker date="1472285941177" expanded="true" signature="2075:2300" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -346,7 +340,7 @@
           <folding>
             <element signature="n#style#0;n#div#9;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#9;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1472285555377" expanded="true" signature="2075:2300" placeholder="..." />
+            <marker date="1472285941177" expanded="true" signature="2075:2300" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -390,7 +384,7 @@
           <folding>
             <element signature="n#style#0;n#div#9;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#9;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1472285555377" expanded="true" signature="2075:2300" placeholder="..." />
+            <marker date="1472285941177" expanded="true" signature="2075:2300" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -525,12 +519,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="535" column="82" selection-start-line="535" selection-start-column="82" selection-end-line="535" selection-end-column="82" />
+        <state relative-caret-position="178">
+          <caret line="626" column="35" selection-start-line="626" selection-start-column="35" selection-end-line="626" selection-end-column="35" />
           <folding>
             <element signature="n#style#0;n#div#9;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#9;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1472285555377" expanded="true" signature="2075:2300" placeholder="..." />
+            <marker date="1472285941177" expanded="true" signature="2075:2300" placeholder="..." />
           </folding>
         </state>
       </provider>
