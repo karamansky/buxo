@@ -105,6 +105,7 @@
 
 /*history*/
 .history-for-phone{
+  padding-top: 30px;
   display: none;
 }
 .history__head h2{
@@ -577,5 +578,15 @@ a.email-span{
      padding-left: 0px;
   }
 
+}
+
+@media (max-width: 320px){
+  a.toggle-item-toggle:after {
+    top: 13px;
+    right: 5px;
+  }
+  a.toggle-item-toggle.active:after {
+    top: 15px;
+  }
 }
 
