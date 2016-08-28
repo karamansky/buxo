@@ -866,17 +866,16 @@
 	textarea.validation-error,
 	select.validation-error { border: 1px solid #e1a1a1; }
 	
-	#contact-form input[type="text"] {
+	#contact-form input[type="text"],
+  #contact-form input[type="email"],
+  #contact-form textarea{
+    border: 2px solid #e7e7e7;
+    border-radius: 3px;
 		width: 100%;
+    padding: 20px 10px;
 		font: 12px 'Open Sans', Arial, sans-serif;
-	}
-	
-	#contact-form #formstatus {}
-		
-	#contact-form textarea {
-		font: 12px 'Open Sans', Arial, sans-serif; 
-		resize: none; 
-	}
+    resize: none;
+  }
 	
 	/* Social Media */
 	.social-media { position: relative; z-index: 9999; }

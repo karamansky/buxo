@@ -402,3 +402,23 @@
   /*end index*/
 
 }
+
+/*====================contacts page====================*/
+.map-description{
+  padding-left: 10px;
+  margin-bottom: 35px;
+}
+.map-description__head, .map-description__body{
+  padding-left: 30px;
+}
+.map-description h2{
+  display: block;
+  background: url("../images/map-icon.png") 0px 10px no-repeat;
+  padding-left: 30px;
+}
+.map-description__body p{
+  margin-bottom: 0px;
+}
+.map-description__body a{
+  color: #3899d7;
+}

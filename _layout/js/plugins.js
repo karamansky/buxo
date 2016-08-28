@@ -154,17 +154,17 @@
 		
 		if(typeof $.fn.gMap != 'undefined'){
 		
-			$('#google-map').gMap({
-				maptype: 'ROADMAP',
-				scrollwheel: true,
-				zoom: 15,
-				markers: [{
-						address: 'New York, United States',
-						html: '',
-						popup: false
-					}
-				]
-			});
+			// $('#google-map').gMap({
+			// 	maptype: 'ROADMAP',
+			// 	scrollwheel: true,
+			// 	zoom: 15,
+			// 	markers: [{
+			// 			address: 'New York, United States',
+			// 			html: '',
+			// 			popup: false
+			// 		}
+			// 	]
+			// });
 		
 		}
 
