@@ -104,6 +104,9 @@
 }
 
 /*history*/
+.history-for-phone{
+  display: none;
+}
 .history__head h2{
   text-transform: uppercase;
   font-family: 'Open Sans Light', Arial, sans-serif;
@@ -190,8 +193,8 @@
   width: 51%;
   float: right;
 }
-.email-span{
-  color: #937d00;
+a.email-span{
+  color: #937d00!important;
 }
 .footer-contact{overflow: hidden; }
 
@@ -524,6 +527,7 @@
     margin-bottom: 60px;
     height: auto;
   }
+  .history-for-phone{display: block;}
   .icon-box-1 i{display: none;}
   .icon-box-1 .icon-box-content {
      margin-left: 0px;
