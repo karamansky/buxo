@@ -222,11 +222,11 @@
   text-transform: capitalize;
 }
 .item p{
-  line-height: 26px;
+  line-height: 28px;
 }
 .item__head h3{
   font-size:24px;
-  padding-left: 148px;
+  /*padding-left: 148px;*/
 }
 .item__img {
   float: left;
@@ -280,16 +280,140 @@
   font-size: 13px;
 }
 
+/*====================contacts page====================*/
+.map-description{
+  padding-left: 10px;
+  margin-bottom: 35px;
+}
+.map-description__head, .map-description__body{
+  padding-left: 30px;
+}
+.map-description h2{
+  display: block;
+  background: url("../images/map-icon.png") 0px 10px no-repeat;
+  padding-left: 30px;
+}
+.map-description__body p{
+  margin-bottom: 0px;
+}
+.map-description__body a{
+  color: #3899d7;
+}
 
+/*======================history page====================*/
+.second-menu{
+  background: url("../images/second-menu-bg.jpg") center no-repeat;
+  margin: -62px 0 50px 0;
+}
+.second-menu ul{
+  list-style: none;
+}
+.second-menu ul li{
+  float: left;
+  border-left: 2px solid #133040;
+}
+.second-menu ul li a{
+  display: block;
+  font-family: 'Open Sans Light', Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  padding: 28px 22px;
+  color: #fff;
+  text-transform: uppercase;
 
+}
+.second-menu ul li:first-child{
+  border-left: 0px;
+}
+.second-menu ul li a:hover{
+  background: #caac00;
+  text-decoration: none;
+}
+.second-menu li.current a{
+  background: #caac00;
+}
+.page-content h2{
+  font-family: 'Open Sans Light', Arial, sans-serif;
+  font-size: 24px;
+  line-height: 40px;
+  margin-bottom: 60px;
+}
 
+/*=======================OUR TEAM PAGE=================*/
 
-
-
-
-
-
-
+.item .img-and-caption{
+  float: left;
+  margin-right:20px;
+  background: #313c50;
+}
+.img-and-caption h2, .img-and-caption p{
+  color: #fff;
+  margin-bottom: 0;
+  padding-left: 25px;
+}
+.img-and-caption p{
+  margin-bottom: 10px;
+}
+.img-and-caption h2{
+  line-height: 30px;
+}
+.item{
+  margin-bottom: 30px;
+}
+.item h2{
+  margin-bottom: 0;
+}
+.item table td{
+  vertical-align: middle;
+}
+.pyramid-wrapper{
+  margin: 25px 0;
+  text-align: center;
+}
+.pyramid{
+  display: inline-block;
+  position: relative;
+}
+.pyramid__icon1,
+.pyramid__icon2,
+.pyramid__icon3,
+.pyramid__icon4,
+.pyramid__icon5,
+.pyramid__icon6,
+.pyramid__icon7{
+  position: absolute;
+}
+.pyramid__icon1{
+  right: 110px;
+  top: 5px;
+}
+.pyramid__icon2{
+  left: 20px;
+  top: 45px;
+}
+.pyramid__icon3{
+  left: 0px;
+  top: 145px;
+}
+.pyramid__icon4{
+  right: 40px;
+  top: 135px;
+}
+.pyramid__icon5{
+  left: 0px;
+  top: 215px;
+}
+.pyramid__icon6{
+  right: 0px;
+  top: 255px;
+}
+.pyramid__icon7{
+  left: 37%;
+  top: 290px;
+}
+.pyramid__mainImg{
+  width: 100%;
+}
 
 
 
@@ -357,7 +481,12 @@
     right: 59px;
     bottom: 50px;
   }
-  /*end index*/
+
+  .second-menu ul li a {
+    font-size: 14px;
+    line-height: 14px;
+    padding: 28px 12px;
+  }
 
 }
 
@@ -399,26 +528,25 @@
   .icon-box-1 .icon-box-content {
      margin-left: 0px;
   }
-  /*end index*/
+  .extended-services__items .item {
+    padding: 0 0px;
+  }
+  .item__img img{
+    width: 100%;
+    margin: 0px 15px 0px 0px;
+  }
+  .item .img-and-caption img{
+    width: 100%;
+  }
+  a.toggle-item-toggle:after {
+    top: 33px;
+  }
+  a.toggle-item-toggle.active:after {
+     top: 35px;
+  }
+  .toggle-item-content div div:last-child {
+     padding-left: 0px;
+  }
 
 }
 
-/*====================contacts page====================*/
-.map-description{
-  padding-left: 10px;
-  margin-bottom: 35px;
-}
-.map-description__head, .map-description__body{
-  padding-left: 30px;
-}
-.map-description h2{
-  display: block;
-  background: url("../images/map-icon.png") 0px 10px no-repeat;
-  padding-left: 30px;
-}
-.map-description__body p{
-  margin-bottom: 0px;
-}
-.map-description__body a{
-  color: #3899d7;
-}
