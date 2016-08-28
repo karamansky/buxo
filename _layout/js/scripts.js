@@ -1,7 +1,9 @@
 (function($) {
 	
 	"use strict";
-	
+
+	$("ul li ul").parent("li").css("list-style","none");
+
 /* ==========================================================================
    ieViewportFix - fixes viewport problem in IE 10 SnapMode and IE Mobile 10
    ========================================================================== */

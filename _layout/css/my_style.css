@@ -214,13 +214,12 @@ a.email-span{
 
 /*===================services page================*/
 .page-content{
-  margin-bottom:100px;
   overflow: hidden;
 }
 .page-content__head, .extended-services__head{
   max-width: 100%;
 }
-.page-content h3{
+.page-content h3, .headline{
   font-family: 'Open Sans Light', Arial, sans-serif;
   text-transform: capitalize;
 }
@@ -229,7 +228,14 @@ a.email-span{
 }
 .item__head h3{
   font-size:24px;
-  /*padding-left: 148px;*/
+}
+.item ul li{
+  margin-left: 40px;
+  font-family:'Open Sans Light', Arial, sans-serif;
+}
+.item ul li ul{
+  margin-top: 25px;
+  list-style: none;
 }
 .item__img {
   float: left;
@@ -242,9 +248,9 @@ a.email-span{
   text-align: center;
   padding: 0 90px;
 }
-.item h3{
-  font-size: 14px;
-}
+/*.item h3{*/
+  /*font-size: 14px;*/
+/*}*/
 
 /*====================projects page====================*/
 
@@ -418,6 +424,25 @@ a.email-span{
   width: 100%;
 }
 
+/**********************WHY US********************/
+.belifers p{
+  font-size:15px;
+  text-align: center;
+}
+.img-wrap{
+  padding: 15px;
+}
+.img-wrap img{
+  width: 100%;
+}
+
+
+
+
+
+
+
+
 
 
 
@@ -426,7 +451,7 @@ a.email-span{
 /*MEDIA ===================*/
 @media (max-width: 979px){
 
-  /*index*/
+  a.btn-black{text-align: center;}
   .caption.title {
     font-size: 36px;
     line-height: 42px;
