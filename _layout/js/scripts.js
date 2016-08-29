@@ -2,16 +2,15 @@
 	
 	"use strict";
 
+	//убираем list-style у li c вложенным ul
 	$("ul li ul").parent("li").css("list-style","none");
 
 	/*float second menu*/
-	// Options
-	var options = {
-		offset: 610
+	if($("div").is(".second-menu")){ //существует ли меню на странице
+		var offset = {offset: 610}; // параметры скроллинга от верхнего края для срабатывания скрипта
+		var secondMenu = new Headhesive('.second-menu', offset); //инициализация скрипта
 	}
 
-// Create a new instance of Headhesive.js and pass in some options
-	var header = new Headhesive('.second-menu', options);
 
 /* ==========================================================================
    ieViewportFix - fixes viewport problem in IE 10 SnapMode and IE Mobile 10

@@ -2,85 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc35ab99-b9b9-4173-922c-b871982c232f" name="Default" comment="projects-page(20%)+arrow_img">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/about-us-header-bg.jpg" afterPath="$PROJECT_DIR$/_layout/images/about-us-header-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/accordion-arrow.png" afterPath="$PROJECT_DIR$/_layout/images/accordion-arrow.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/belifers-1.jpg" afterPath="$PROJECT_DIR$/_layout/images/belifers-1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/belifers-2.jpg" afterPath="$PROJECT_DIR$/_layout/images/belifers-2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/belifers-3.jpg" afterPath="$PROJECT_DIR$/_layout/images/belifers-3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/belifers-4.jpg" afterPath="$PROJECT_DIR$/_layout/images/belifers-4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/bg-body21.png" afterPath="$PROJECT_DIR$/_layout/images/bg-body21.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/bg-box.jpg" afterPath="$PROJECT_DIR$/_layout/images/bg-box.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/bg-horizontal-dot.png" afterPath="$PROJECT_DIR$/_layout/images/bg-horizontal-dot.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/bg-page-header.png" afterPath="$PROJECT_DIR$/_layout/images/bg-page-header.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/bg-testimonial.png" afterPath="$PROJECT_DIR$/_layout/images/bg-testimonial.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/bg-vertical-line.png" afterPath="$PROJECT_DIR$/_layout/images/bg-vertical-line.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/bttl.png" afterPath="$PROJECT_DIR$/_layout/images/bttl.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/client.png" afterPath="$PROJECT_DIR$/_layout/images/client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/clients-bg.jpg" afterPath="$PROJECT_DIR$/_layout/images/clients-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/contacts-header-bg.jpg" afterPath="$PROJECT_DIR$/_layout/images/contacts-header-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/extends-service-icon1.png" afterPath="$PROJECT_DIR$/_layout/images/extends-service-icon1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/extends-service-icon2.png" afterPath="$PROJECT_DIR$/_layout/images/extends-service-icon2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/extends-service-icon3.png" afterPath="$PROJECT_DIR$/_layout/images/extends-service-icon3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/extends-service-icon4.png" afterPath="$PROJECT_DIR$/_layout/images/extends-service-icon4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/footer-logo.png" afterPath="$PROJECT_DIR$/_layout/images/footer-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/goals-img.jpg" afterPath="$PROJECT_DIR$/_layout/images/goals-img.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/history-header-bg.jpg" afterPath="$PROJECT_DIR$/_layout/images/history-header-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/history.png" afterPath="$PROJECT_DIR$/_layout/images/history.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/icon-el-column.png" afterPath="$PROJECT_DIR$/_layout/images/icon-el-column.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/icon-hook.png" afterPath="$PROJECT_DIR$/_layout/images/icon-hook.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/icon-lamp.png" afterPath="$PROJECT_DIR$/_layout/images/icon-lamp.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/icon-man.png" afterPath="$PROJECT_DIR$/_layout/images/icon-man.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/icon-mens.png" afterPath="$PROJECT_DIR$/_layout/images/icon-mens.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/icon-people.png" afterPath="$PROJECT_DIR$/_layout/images/icon-people.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/icon-platform.png" afterPath="$PROJECT_DIR$/_layout/images/icon-platform.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/icon-ship.png" afterPath="$PROJECT_DIR$/_layout/images/icon-ship.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/logo.png" afterPath="$PROJECT_DIR$/_layout/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/map-icon.png" afterPath="$PROJECT_DIR$/_layout/images/map-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/mission-icon.png" afterPath="$PROJECT_DIR$/_layout/images/mission-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/oli-major.png" afterPath="$PROJECT_DIR$/_layout/images/oli-major.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/one-mayaro.png" afterPath="$PROJECT_DIR$/_layout/images/one-mayaro.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/partners.jpg" afterPath="$PROJECT_DIR$/_layout/images/partners.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/people-csr.jpg" afterPath="$PROJECT_DIR$/_layout/images/people-csr.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/peterson-logo.jpg" afterPath="$PROJECT_DIR$/_layout/images/peterson-logo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/play-button.png" afterPath="$PROJECT_DIR$/_layout/images/play-button.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/portfolio-small1.jpg" afterPath="$PROJECT_DIR$/_layout/images/portfolio-small1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/portfolio-small2.jpg" afterPath="$PROJECT_DIR$/_layout/images/portfolio-small2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/portfolio-small3.jpg" afterPath="$PROJECT_DIR$/_layout/images/portfolio-small3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/portfolio-small4.jpg" afterPath="$PROJECT_DIR$/_layout/images/portfolio-small4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/pyramid.png" afterPath="$PROJECT_DIR$/_layout/images/pyramid.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/recommendations-logo1.png" afterPath="$PROJECT_DIR$/_layout/images/recommendations-logo1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/recommendations-logo2.png" afterPath="$PROJECT_DIR$/_layout/images/recommendations-logo2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/recommendations-logo3.png" afterPath="$PROJECT_DIR$/_layout/images/recommendations-logo3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/recommendations-logo4.png" afterPath="$PROJECT_DIR$/_layout/images/recommendations-logo4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/recommendations-logo5.png" afterPath="$PROJECT_DIR$/_layout/images/recommendations-logo5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/recommendations-logo6.png" afterPath="$PROJECT_DIR$/_layout/images/recommendations-logo6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/richard_buxo.jpg" afterPath="$PROJECT_DIR$/_layout/images/richard_buxo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/second-menu-bg.jpg" afterPath="$PROJECT_DIR$/_layout/images/second-menu-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/services-icon1.png" afterPath="$PROJECT_DIR$/_layout/images/services-icon1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/services-icon2.png" afterPath="$PROJECT_DIR$/_layout/images/services-icon2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/services-icon3.png" afterPath="$PROJECT_DIR$/_layout/images/services-icon3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/services-icon4.png" afterPath="$PROJECT_DIR$/_layout/images/services-icon4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/slide1-bg.jpg" afterPath="$PROJECT_DIR$/_layout/images/slide1-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/slide2-bg.jpg" afterPath="$PROJECT_DIR$/_layout/images/slide2-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/slide3-bg-history.png" afterPath="$PROJECT_DIR$/_layout/images/slide3-bg-history.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/slide3-bg.jpg" afterPath="$PROJECT_DIR$/_layout/images/slide3-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/swwtu.png" afterPath="$PROJECT_DIR$/_layout/images/swwtu.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/technical.png" afterPath="$PROJECT_DIR$/_layout/images/technical.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/vision-icon.png" afterPath="$PROJECT_DIR$/_layout/images/vision-icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/workers.png" afterPath="$PROJECT_DIR$/_layout/images/workers.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/yellow-line-bg.jpg" afterPath="$PROJECT_DIR$/_layout/images/yellow-line-bg.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/images/zoom-link-sprite.png" afterPath="$PROJECT_DIR$/_layout/images/zoom-link-sprite.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/css/my_style.css" afterPath="$PROJECT_DIR$/_layout/css/my_style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layout/js/scripts.js" afterPath="$PROJECT_DIR$/_layout/js/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/history.html" afterPath="$PROJECT_DIR$/history.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hsse.html" afterPath="$PROJECT_DIR$/hsse.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out-team.html" afterPath="$PROJECT_DIR$/out-team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects.html" afterPath="$PROJECT_DIR$/projects.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/why-us.html" afterPath="$PROJECT_DIR$/why-us.html" />
     </list>
     <ignored path="01.html-website.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -100,40 +23,7 @@
     <favorites_list name="01.html-website" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="why-us.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/why-us.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="442" column="23" selection-start-line="442" selection-start-column="23" selection-end-line="442" selection-end-column="23" />
-              <folding>
-                <marker date="1472455553127" expanded="true" signature="1747:1945" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layout/js/scripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my_style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layout/css/my_style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="529" column="25" selection-start-line="529" selection-start-column="25" selection-end-line="529" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -165,15 +55,15 @@
         <option value="$PROJECT_DIR$/page-404.html" />
         <option value="$PROJECT_DIR$/_layout/css/base.css" />
         <option value="$PROJECT_DIR$/why-us.html" />
-        <option value="$PROJECT_DIR$/_layout/js/scripts.js" />
         <option value="$PROJECT_DIR$/_layout/css/my_style.css" />
         <option value="$PROJECT_DIR$/out-team.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/history.html" />
         <option value="$PROJECT_DIR$/hsse.html" />
-        <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/projects.html" />
+        <option value="$PROJECT_DIR$/_layout/js/scripts.js" />
       </list>
     </option>
   </component>
@@ -266,7 +156,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,9 +217,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15611587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15611587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -375,7 +265,7 @@
           <caret line="372" column="36" selection-start-line="372" selection-start-column="24" selection-end-line="372" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1472456279568" expanded="true" signature="1818:2044" placeholder="..." />
+            <marker date="1472463656809" expanded="true" signature="1818:2044" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -662,14 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layout/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -681,14 +563,6 @@
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#10;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1472456237980" expanded="true" signature="2071:2296" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layout/css/my_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="529" column="25" selection-start-line="529" selection-start-column="25" selection-end-line="529" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,17 +584,6 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1472456283940" expanded="true" signature="1795:2020" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="520" column="58" selection-start-line="520" selection-start-column="58" selection-end-line="520" selection-end-column="58" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1472456279568" expanded="true" signature="1818:2044" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -755,6 +618,33 @@
           <caret line="442" column="23" selection-start-line="442" selection-start-column="23" selection-end-line="442" selection-end-column="23" />
           <folding>
             <marker date="1472455553127" expanded="true" signature="1747:1945" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layout/css/my_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="529" column="25" selection-start-line="529" selection-start-column="25" selection-end-line="529" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layout/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="520" column="6" selection-start-line="520" selection-start-column="6" selection-end-line="520" selection-end-column="58" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1472463656809" expanded="true" signature="1818:2044" placeholder="..." />
           </folding>
         </state>
       </provider>
